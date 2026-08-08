@@ -20,12 +20,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedanttkhanna&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedanttkhanna&theme=tokyo-night&hide_border=true&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedanttkhanna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=vedanttkhanna&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedanttkhanna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=vedanttkhanna&theme=tokyonight&hide_border=true&background=000000" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 │  Languages  : Python, C++, C                                │
 │  Frameworks : PyTorch, TensorFlow, Streamlit, FastAPI       │
 │  Domains    : Speech Separation, RAG, CV, Edge AI            │
-│  Mission    : Ship ML systems that actually run on-device    │
+│  Mission    : Ship ML systems that actually run on-device   │
 └────────────────────────────────────────────────────────────┘
 </pre>
 </div>
