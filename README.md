@@ -58,19 +58,7 @@ Data Preprocessing      ██████████████████�
 Deployment (Electron/API)███████████████░░░░   75%
 ```
 
-I build ML systems end-to-end — from model architecture down to the deployed app someone actually clicks on. A few things I've shipped:
 
-- **Speech Separation** — a hybrid SepReformer + SepTDA PyTorch pipeline that separates an unknown number of speakers with no prior input, using topological data analysis and energy thresholding for automatic speaker counting. Hits 19.8–20.6 dB SI-SNRi and runs in ~0.4s on a T4 GPU, deployed as a live app with per-speaker playback. [`GitHub`](https://github.com/vedanttkhanna/Speech_Separation_Soundwave)
-
-- **Karpathy Digital Twin** — a hybrid RAG pipeline (BM25 + semantic search + RRF + HyDE, parent-child chunking) over 2,100 chunks from 19 sources, backed by a 28-node knowledge graph that grounds an advisory persona in real project decisions. Added a sentiment-driven adaptation loop that dynamically adjusts explanation depth and cut API calls per message from 4 to 2 via prompt fusion — no drop in retrieval quality. [`GitHub`](https://github.com/vedanttkhanna/AIMS_Karpathy_Twin)
-
-- **CrowdSafe** — a 7-model LSTM ensemble trained on the ETH/UCY benchmark (1,600+ trajectories, BiLSTM ADE 2.17m) paired with an LSTM autoencoder for unsupervised anomaly detection. Runs a YOLOv8 + DeepSORT tracking pipeline (140ms latency, 20+ pedestrians) feeding a 0–100 crowd risk gauge, shipped as an Electron app with a FastAPI backend. [`GitHub`](https://github.com/vedanttkhanna/CROWDSAFE_app)
-
-- **AASHA** — an offline rural health assistant running a quantized on-device LLM for bilingual (English + Hindi) voice triage end-to-end in ~3–5s, plus an OCR + LLM pipeline for prescriptions and a YAMNet TFLite model (4.13 MB) for respiratory risk detection — all usable without internet, backing a 10,000+ record local patient database with SOS dispatch. [`GitHub`](https://github.com/Sarthakcodes007/Curebay)
-
-- **Gesture-Controlled Drone** — MediaPipe + ANN gesture recognition (21 landmarks, 63 features) hitting ~94% directional accuracy versus ~78% for a CNN baseline, with a dual-camera setup for navigation and a vision-based safe-landing module using edge density and texture heuristics, deployed live on Streamlit. [`GitHub`](https://github.com/vedanttkhanna/AIMS-DRONE-PROJECT)
-
----
 
 ### Tech Arsenal
 
