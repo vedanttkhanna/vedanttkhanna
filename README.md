@@ -32,17 +32,17 @@
 
 <div align="center">
 <pre style="background: linear-gradient(45deg, #000428, #004e92); color:#0F0; padding:20px; border-radius:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap; box-shadow: 0 0 15px rgba(0,255,0,0.2);">
-┌────────────────────────────────────────────────────────────┐
-│                APPLICATION INITIALIZED                     │
-├────────────────────────────────────────────────────────────┤
-│  Name       : Vedant Khanna                                │
-│  Role       : AI/ML Developer & Researcher                 │
-│  Education  : B.Tech Engineering Physics, DTU               │
-│  Languages  : Python, C++, C                                │
-│  Frameworks : PyTorch, TensorFlow, Streamlit, FastAPI       │
-│  Domains    : Speech Separation, RAG, CV, Edge AI            │
-│  Mission    : Ship ML systems that actually run on-device   │
-└────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│                 APPLICATION INITIALIZED                  │
+├──────────────────────────────────────────────────────────┤
+│  Name       : Vedant Khanna                              │
+│  Role       : AI/ML Developer & Researcher               │
+│  Education  : B.Tech Engineering Physics, DTU            │
+│  Languages  : Python, C++, C                             │
+│  Frameworks : PyTorch, TensorFlow, Streamlit, FastAPI    │
+│  Domains    : Speech Separation, RAG, CV, Edge AI        │
+│  Mission    : Ship ML systems that actually run on-device│
+└──────────────────────────────────────────────────────────┘
 </pre>
 </div>
 
@@ -75,10 +75,12 @@ I build ML systems end-to-end — from model architecture down to the deployed a
 ### Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,git,github,vscode,streamlit,fastapi,electron&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,git,github,vscode,electron&perline=6&theme=dark" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
