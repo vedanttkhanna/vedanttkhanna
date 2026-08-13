@@ -2,17 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00FF99&center=true&vCenter=true&random=false&width=700&lines=Hello+World!;Vedant+Khanna+here;Building+Intelligent+Systems;Speech+%7C+Vision+%7C+RAG+%7C+Edge+AI" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <b>AI/ML Developer | Engineering Physics @ DTU | Research Intern</b>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Edge%20AI-On--Device%20LLMs-8A2BE2?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=vedanttkhanna&style=for-the-badge&color=1a6dd4&label=Profile+Views" />
-</p>
 
 <!-- Snake contribution animation (requires the snake GitHub Action - setup notes at the bottom) -->
 <p align="center">
@@ -30,33 +20,7 @@
 
 ---
 
-<div align="center">
-<pre style="background: linear-gradient(45deg, #000428, #004e92); color:#0F0; padding:20px; border-radius:10px; font-family:'Courier New', monospace; text-align: left; white-space: pre-wrap; box-shadow: 0 0 15px rgba(0,255,0,0.2);">
-┌──────────────────────────────────────────────────────────┐
-│                 APPLICATION INITIALIZED                  │
-├──────────────────────────────────────────────────────────┤
-│  Name       : Vedant Khanna                              │
-│  Role       : AI/ML Developer & Researcher               │
-│  Education  : B.Tech Engineering Physics, DTU            │
-│  Languages  : Python, C++, C                             │
-│  Frameworks : PyTorch, TensorFlow, Streamlit, FastAPI    │
-│  Domains    : Speech Separation, RAG, CV, Edge AI        │
-│  Mission    : Ship ML systems that actually run on-device│
-└──────────────────────────────────────────────────────────┘
-</pre>
-</div>
 
-### AI/ML Development Experience
-
-```text
-Model Training        █████████████████░░░   85%
-Deep Learning          ██████████████████░░   90%
-Computer Vision        █████████████████░░░   85%
-RAG / LLM Systems       ████████████████░░░░   80%
-Edge / On-Device AI     █████████████████░░░   85%
-Data Preprocessing      ██████████████████░░   90%
-Deployment (Electron/API)███████████████░░░░   75%
-```
 
 
 
