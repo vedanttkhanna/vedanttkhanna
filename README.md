@@ -1,30 +1,21 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00FF99&center=true&vCenter=true&random=false&width=700&lines=Hello+World!;Vedant+Khanna+here;Building+Intelligent+Systems;Speech+%7C+Vision+%7C+RAG+%7C+Edge+AI" alt="Typing SVG" />
-</p>
+# Hi there, I am Vedant 
 
-
+Majoring in Engineering Physics and exploring AI/ML.
 
 <!-- Snake contribution animation (requires the snake GitHub Action - setup notes at the bottom) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/vedanttkhanna/vedanttkhanna/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedanttkhanna&theme=tokyo-night&hide_border=true&bg_color=000000" />
-</p>
+---
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedanttkhanna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=vedanttkhanna&theme=tokyonight&hide_border=true&background=000000" />
-</p>
+## About me 
+
+I am a sophomore at DTU majoring in Engineering Physics. I have a strong focus in Artificial Intelligence, Machine Learning and Deep Learning. My interest lies in AI research and real-world engineering, where I enjoy building projects that solve real problems.
 
 ---
 
-
-
-
-
-### Tech Arsenal
+## Tech Stack 🖥️
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,git,github,vscode,electron&perline=6&theme=dark" />
@@ -46,7 +37,20 @@
 
 ---
 
-### Let's Connect
+## Stats 
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedanttkhanna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=vedanttkhanna&theme=tokyonight&hide_border=true&background=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedanttkhanna&theme=tokyo-night&hide_border=true&bg_color=000000" />
+</p>
+
+---
+
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedanttkhannaa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
