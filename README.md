@@ -21,8 +21,6 @@ I am a sophomore at DTU majoring in Engineering Physics. I have a strong focus i
   <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,&perline=6&theme=dark" />
 </p>
 
-
-
 ---
 
 ## Stats 
