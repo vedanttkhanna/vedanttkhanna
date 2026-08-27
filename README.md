@@ -22,12 +22,6 @@ Hello there, I am a sophomore at DTU majoring in Engineering Physics. I have a s
 </p>
 
 ---
-## Stats 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedanttkhanna&theme=tokyo-night&hide_border=true&bg_color=000000" />
-</p>
-
----
 
 
