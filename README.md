@@ -2,13 +2,6 @@
 
 Majoring in Engineering Physics and exploring AI/ML.
 
-<!-- Snake contribution animation (requires the snake GitHub Action - setup notes at the bottom) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedanttkhanna/vedanttkhanna/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ## About me 
 
 Hello there, I am a sophomore at DTU majoring in Engineering Physics. I have a strong focus in Artificial Intelligence, Machine Learning and Deep Learning. My interest lies in AI research specifically computer vision and real-world engineering, where I enjoy building projects that solve real problems.
@@ -23,5 +16,10 @@ Hello there, I am a sophomore at DTU majoring in Engineering Physics. I have a s
 
 ---
 
+<!-- Snake contribution animation (requires the snake GitHub Action - setup notes at the bottom) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vedanttkhanna/vedanttkhanna/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
+---
 
