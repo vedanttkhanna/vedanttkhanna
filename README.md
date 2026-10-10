@@ -15,11 +15,3 @@ Hello there, I am a sophomore at DTU majoring in Engineering Physics. I have a s
 </div>
 
 ---
-
-<!-- Snake contribution animation (requires the snake GitHub Action - setup notes at the bottom) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedanttkhanna/vedanttkhanna/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
